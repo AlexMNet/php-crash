@@ -52,5 +52,5 @@ $people = [
     var_dump(json_encode($people));
 
     //Turn JSON into associative array
-    json_decode()
+    // json_decode()
 ?>
